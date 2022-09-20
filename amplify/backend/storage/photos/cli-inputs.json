@@ -1,0 +1,14 @@
+{
+  "resourceName": "photos",
+  "policyUUID": "85543802",
+  "bucketName": "communitycblfeb202206482bfb02884501a1a10734e090",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "photoProcessing",
+  "groupAccess": {}
+}
